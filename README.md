@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **NEXT,PYTHON**
 
-- 👨‍💻 All of my projects are available at [bizendra.com.np](bizendra.com.np)
+- 👨‍💻 All of my projects are available at [bizendra.com.np](https://bizendra.com.np)
 
-- 📝 I regularly write articles on [gallery.bizendra.com.np](gallery.bizendra.com.np)
+- 📝 I regularly write articles on [gallery.bizendra.com.np](https://gallery.bizendra.com.np)
 
 - 💬 Ask me about **REACT, NEST JS**
 
 - 📫 How to reach me **bizen.manandhar@gmail.com**
 
-- 📄 Know about my experiences [bizendra.com.np](bizendra.com.np)
+- 📄 Know about my experiences [bizendra.com.np](https://bizendra.com.np)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
